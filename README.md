@@ -12,7 +12,7 @@ How to install
 - Copy and paste all the code from 'index.html' and paste it into 'Form'. ---- Save it! -----
 - Go, in your wp-admin, to your advanced options where you can add custom CSS and custom scripts (for me this was Flatsome > Advanced).
 - Copy and paste the CSS from the 'style.css' file into the 'Custom CSS' area. (for me this was Flatsome > Advanced > Custom CSS)
-- Copy and paste everything from 'script.js' (OR use 'script-stop.js' if you don't want the form to return after sending) into the custom     script area (footer script). (for me this was Flatsome > Advanced > Global Settings > Footer Scripts) ------ Save All Changes! -----
+- Copy and paste everything from 'script.js' into the custom script area (footer script). (for me this was Flatsome > Advanced > Global Settings > Footer Scripts) ------ Save All Changes! -----
 - Place the form on your Page.
 
 Notes:
