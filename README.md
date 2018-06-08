@@ -16,9 +16,10 @@ How to install
 - Place the form on your Page.
 
 Notes:
-
-- The placement is somewhat weird. Place a "gap" element of approximately 90px above the form.
 - In order to have the icons I installed a plugin named: "Better Font Awesome".
 
 - You can customize to your liking in the Custom CSS.
 - Free for use and customization.
+
+UPDATE:
+- Fixed: Placement was to high and got out of container.
