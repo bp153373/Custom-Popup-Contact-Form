@@ -1,7 +1,7 @@
 # Custom-Popup-Contact-Form
 Custom Contactform Wordpress pop-up
 
-<img src="https://gyazo.com/ebfe665cfce188fc7f0ab159cb7ddfd6.gif" alt="examplegif">
+//<img src="https://gyazo.com/ebfe665cfce188fc7f0ab159cb7ddfd6.gif" alt="examplegif">
 
 I wanted to have an contactform on the product page but didn't want to use too much space. Here I'll offer the code and the how to install.
 
